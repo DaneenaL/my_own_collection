@@ -1,0 +1,11 @@
+---
+galaxy_info:
+  author: DaneenaL
+  description: Creates a text file with my_own_module
+  license: GPL-3.0-or-later
+  min_ansible_version: "2.9"
+  platforms:
+    - name: GenericLinux
+      versions:
+        - all
+dependencies: []

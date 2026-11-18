@@ -1,0 +1,18 @@
+---
+namespace: my_own_namespace
+name: yandex_cloud_elk
+version: 1.0.0
+readme: README.md
+authors:
+  - DaneenaL
+description: Collection with my_own_module (creates a text file) and a role that uses it
+license:
+  - GPL-3.0-or-later
+tags:
+  - files
+  - example
+dependencies: {}
+repository: https://github.com/DaneenaL/my_own_collection
+documentation: https://github.com/DaneenaL/my_own_collection/blob/main/README.md
+homepage: https://github.com/DaneenaL/my_own_collection
+issues: https://github.com/DaneenaL/my_own_collection/issues

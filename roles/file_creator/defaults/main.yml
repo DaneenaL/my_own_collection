@@ -1,0 +1,5 @@
+---
+# Путь файла, который создаст роль
+file_creator_path: /tmp/file_creator.txt
+# Содержимое файла
+file_creator_content: "hello from file_creator role"
